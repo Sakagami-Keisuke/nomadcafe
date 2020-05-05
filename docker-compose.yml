@@ -1,8 +1,8 @@
-          #docker-composeのバージョン(2020.4.12時点では"3"で問題なさそう)
-version: '3'
-          #servicesは各コンテナを定義します
+          #version: '2'ネットワーク、ボリューム使用時 version: '3'swarm modeデプロイ時
+version: '2'
+          #servicesを定義したらコンテナができます
 services:
-          #dbは1つのコンテナ名です（１コンテナ１プロセス）
+          #db というコンテナをつくります
           #ローカルmysql version確認 → mysql  Ver 14.14 Distrib 5.6.47
           #DockerHubでmysql5.6を確認できたので5.6と記述
   db:
@@ -31,16 +31,18 @@ services:
         #commandは任意にコマンドを上書きできます。bashはOSカーネルとユーザの橋渡しするプログラムシェルです
         #起動停止の繰り返しで起こるエラー「A server is already running.」の原因、pidをbuildのたび削除する（unicorn master KILLと同じですね）
         #Rails serverを立ち上げた際にURL(http://0.0.0.0:3000)にアクセス=localhost:3000
-    command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+        # command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+    command: /bin/bash -c "nginx && bundle exec unicorn -c config/unicorn.rb -D && while true; do sleep 10000; done"
         #volumesではパスを指定するとDockerエンジンはボリュームを作成します
         #カレントディレクトリ(.)をapp_nameディレクトリにマウントします。
     volumes:
-      - .:/app_name
+      - .:/var/www/nomadcafe
         #webコンテナの外に作るvolumsのbundle_install:に/usr/local/bundleをマウントします。（パスなし）
       - bundle_install:/usr/local/bundle
         #portsは公開用のポートのことでホスト側とコンテナ側の両方のポートを指定します（ ホスト側:コンテナ側 ）
     ports:
-      - "3000:3000"
+      # - "3000:3000"
+      - "80:80"
         #depends_onはサービス間の依存関係を指定します
         #docker-compose up を実行したら、web:コンテナのプロセスを開始するより前にdb:コンテナのプロセスを先に実行します
     depends_on:
