@@ -102,26 +102,24 @@ https://qiita.com/SakagamiKeisuke
 
 **言語・使用技術**
 ----------
-**●フロント <br>**
+**●フロント<br>**
 &emsp;&emsp;Haml/scss/JavaScript<br>
 **●バックエンド<br>**
 &emsp;&emsp;ruby 2.5.1 <br>
 &emsp;&emsp;Ruby on Rails 5.2.4.2<br>
-**●サーバー<br>**
-&emsp;&emsp;Docker web container<br>
 **●データベース<br>**
-&emsp;&emsp;MyAQL5.6
+&emsp;&emsp;MySQL5.6
+**●テスト<br>**
+&emsp;&emsp;RSpec, factory_bot<br> 
 **●インフラ<br>**
-&emsp;&emsp;AWS EC2 t3small,Route 53 <br>
+&emsp;&emsp;AWS EC2 Linux2 t3small,Route 53 <br>
 **●本番環境<br>**
 &emsp;&emsp;Nginx手動デプロイ<br>
 &emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
 &emsp;&emsp;CircleCI（作業中） <br>
-**●テスト<br>**
-&emsp;&emsp;RSpec, factory_bot<br> 
-
 
 **連絡先**
 ----------
 **坂上計介 サカガミケイスケ
-&emsp;&emsp;Gmail /  iwayasunset@gmail.com**
+&emsp;&emsp;Gmail /  iwayasunset@gmail.com** <br>
+&emsp;&emsp;twitter / https://twitter.com/slope_top_kei
