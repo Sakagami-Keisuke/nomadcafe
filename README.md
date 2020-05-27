@@ -5,7 +5,6 @@
 |---|---|---|---|
 |![](https://user-images.githubusercontent.com/60636597/82975335-17ab0f80-a017-11ea-82f6-2ed8f5df1161.PNG)|![](https://user-images.githubusercontent.com/60636597/82975362-2bef0c80-a017-11ea-84f1-188202c066eb.PNG)|![](https://user-images.githubusercontent.com/60636597/82975390-4628ea80-a017-11ea-86f5-dabf1d11f84e.PNG)|![](https://user-images.githubusercontent.com/60636597/82975443-66f14000-a017-11ea-84fa-caddfd97815b.PNG)|  
 |カフェ紹詳細|カフェサイト遷移|ナビURLスキーム|
-|---|---|---|
 |![](https://user-images.githubusercontent.com/60636597/82976519-42e32e00-a01a-11ea-99a4-16082d065a38.PNG)|![](https://user-images.githubusercontent.com/60636597/82976951-6bb7f300-a01b-11ea-95ed-8dea15efef2f.PNG)|![](https://user-images.githubusercontent.com/60636597/82977033-9d30be80-a01b-11ea-8683-0223d23f1531.PNG)|  
 
 
