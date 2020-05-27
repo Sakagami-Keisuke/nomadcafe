@@ -1,6 +1,6 @@
 **個人制作アプリ NomadCafe**
 ----------
-![トップ画面ブラウザ](https://user-images.githubusercontent.com/60636597/82974741-a6b72800-a015-11ea-8a39-836b8dc69a10.jpg)
+<img src="https://user-images.githubusercontent.com/60636597/82974741-a6b72800-a015-11ea-8a39-836b8dc69a10.jpg)"width="500">
 ![IMG_0135-min](https://user-images.githubusercontent.com/60636597/82974822-d108e580-a015-11ea-9a2e-3fab9ec12638.PNG)
 **開発に対する想い**
 ----------
