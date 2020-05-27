@@ -121,5 +121,4 @@ https://qiita.com/SakagamiKeisuke
 **連絡先**
 ----------
 **坂上計介 サカガミケイスケ
-&emsp;&emsp;Gmail /  iwayasunset@gmail.com** <br>
-&emsp;&emsp;twitter / https://twitter.com/slope_top_kei
+&emsp;&emsp;Gmail / iwayasunset@gmail.com** &emsp;&emsp;twitter / https://twitter.com/slope_top_kei
