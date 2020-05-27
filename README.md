@@ -1,9 +1,9 @@
 **個人制作アプリ NomadCafe**
 ----------
 
-|表紙|中面1|
-|---|---|
-|![](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](https://user-images.githubusercontent.com/60636597/82975219-cef35680-a016-11ea-9bc7-fa7a1bd5ed4a.PNG)|
+|表紙|中面1|中面1|中面1|
+|---|---|---|---|
+|![](https://user-images.githubusercontent.com/60636597/82975335-17ab0f80-a017-11ea-82f6-2ed8f5df1161.PNG)|![](https://user-images.githubusercontent.com/60636597/82975362-2bef0c80-a017-11ea-84f1-188202c066eb.PNG)|![](https://user-images.githubusercontent.com/60636597/82975390-4628ea80-a017-11ea-86f5-dabf1d11f84e.PNG)|![]()|
 
 **開発に対する想い**
 ----------
