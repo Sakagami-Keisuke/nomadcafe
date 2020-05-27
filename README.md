@@ -108,7 +108,7 @@ https://qiita.com/SakagamiKeisuke
 **●バックエンド<br>**
 &emsp;&emsp;ruby 2.5.1 <br>
 &emsp;&emsp;Ruby on Rails 5.2.4.2<br>
-**●データベース<br>**
+**●データベース**<br>
 &emsp;&emsp;MySQL5.6
 **●テスト<br>**
 &emsp;&emsp;RSpec, factory_bot<br> 
