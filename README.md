@@ -76,7 +76,7 @@ https://qiita.com/SakagamiKeisuke
 **雑食系サロン等を参考に、自身でマイルストーンを決めて開発作業を実施**
 ------------------------------
 ○ GitHubのイシュー＋プルリク活用<br>
-○ twitter発信、Qiita投稿などのアウトプットを並行<br>
+○ twitter発信、Qiitaアウトプット投稿(初学者がわかるように)並行<br>
 ○ UI/UXを整える<br>
 ○ READMEを整える<br>
 ○ 実用的なデモデータ登録<br>
