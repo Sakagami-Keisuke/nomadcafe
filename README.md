@@ -60,10 +60,10 @@
 **13）テストの実施（model)<br>**
 &emsp;&emsp;RSpec、factory_bot使用<br>
 **14）Docker環境をやめて、手動デプロイ変更 rails＋unicorn+nginx**<br>
-&emsp;&emsp;Docker環境リポジトリ=nomadcafe<br><br>
 &emsp;&emsp;Rails環境リポジトリ=nomadcafe-sub<br>
 
 〜以下、CircleCI自動デプロイ作業=nomadcafe-subリポジトリ〜<br>
+https://github.com/Sakagami-Keisuke/nomadcafe-sub<br>
 **15）独自ドメイン取得、AWS Route53DNS、Let’s Encryptで無料SSL証明書取得、HTTPS接続設定**<br>
 **16）スマートフォン実機でのアプリ動作、マップ表示、現在地取得、ナビURLスキーム検証、CSS調整**<br>
 **17）CI/CD CircleCI masterpush自動デプロイ化（学習作業中）**<br><br>
