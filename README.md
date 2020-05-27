@@ -91,9 +91,9 @@ https://qiita.com/SakagamiKeisuke
 ○ RSpecテストを実施<br>
 ○ Nginx,Unicorn,Puma,Rake,railsサーバー役割理解<br>
 ○ webサーバー nginx理解活用<br>
-○ インフラにAWS/EC2サービス活用<br>
-○ Docker（コンテナサービス）活用(一時VPC,ECR使用,ECSは中止）<br>
-○ CI/CD CircleCI活用<br>
+○ インフラにAWS/EC2サービス活用(一時VPC,ECR使用,ECSは中止）<br>
+○ Docker（コンテナサービス）活用<br>
+○ CI/CD CircleCI活用(作業中)<br>
 
 **言語・使用技術**
 ----------
@@ -110,6 +110,7 @@ https://qiita.com/SakagamiKeisuke
 &emsp;&emsp;AWS EC2 t3small,Route 53 <br>
 **●本番環境<br>**
 &emsp;&emsp;Nginx手動デプロイ<br>
+&emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
 &emsp;&emsp;CircleCI（作業中） <br>
 **●テスト<br>**
 &emsp;&emsp;RSpec, factory_bot<br> 
