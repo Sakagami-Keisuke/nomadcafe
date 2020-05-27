@@ -119,19 +119,21 @@ https://qiita.com/SakagamiKeisuke
 &emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
 &emsp;&emsp;CircleCI（作業中） <br>
 **●Gem<br>**
-gem 'haml-rails'
-gem 'font-awesome-sass'
-gem 'pry-rails'
-gem 'seed-fu'
-gem 'devise'
-gem 'devise-i18n'
-gem 'devise-i18n-views'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'jquery-rails'
-gem 'unicorn', '5.4.1'
-gem 'mini_racer'
-gem 'dotenv-rails'<br>
+haml-rails<br>
+font-awesome-sass<br>
+pry-rails<br>
+seed-fu<br>
+devise<br>
+devise-i18n<br>
+devise-i18n-views<br>
+carrierwave<br>
+mini_magick<br>
+jquery-rails<br>
+unicorn<br>
+mini_racer<br>
+dotenv-rails<br>
+rspec-rails<br>
+factory_bot_rails<br><br>
 **連絡先**
 ----------
 **坂上計介 サカガミケイスケ
