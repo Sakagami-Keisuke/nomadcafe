@@ -3,7 +3,8 @@
 
 |表紙|中面1|
 |---|---|
-|![](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](
+|![](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](https://user-images.githubusercontent.com/60636597/82975219-cef35680-a016-11ea-9bc7-fa7a1bd5ed4a.PNG)|
+
 **開発に対する想い**
 ----------
 **ビフォアコロナのアイデアです<br>**
