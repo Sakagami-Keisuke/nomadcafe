@@ -89,7 +89,7 @@ https://qiita.com/SakagamiKeisuke
 ○ スクラッチCSSである程度装飾<br>
 ○ コードに綺麗にする・静的コードチェックアプリ活用<br>
 ○ RSpecテストを実施<br>
-○ Nginx,Unicorn,Puma,Rake,railsサーバー・アプリの役割理解活用<br>
+○ Nginx,Unicorn,Puma,Rake,railsサーバー役割理解<br>
 ○ webサーバー nginx理解活用<br>
 ○ インフラにAWS/EC2サービス活用<br>
 ○ Docker（コンテナサービス）活用(一時VPC,ECR使用,ECSは中止）<br>
