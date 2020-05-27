@@ -118,7 +118,20 @@ https://qiita.com/SakagamiKeisuke
 &emsp;&emsp;Nginx手動デプロイ<br>
 &emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
 &emsp;&emsp;CircleCI（作業中） <br>
-
+**●Gem<br>**
+gem 'haml-rails'
+gem 'font-awesome-sass'
+gem 'pry-rails'
+gem 'seed-fu'
+gem 'devise'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'jquery-rails'
+gem 'unicorn', '5.4.1'
+gem 'mini_racer'
+gem 'dotenv-rails'<br>
 **連絡先**
 ----------
 **坂上計介 サカガミケイスケ
