@@ -3,7 +3,7 @@
 
 |表紙|中面1|
 |---|---|
-|![トップ画面ブラウザ](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](
+|![](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](
 **開発に対する想い**
 ----------
 **ビフォアコロナのアイデアです<br>**
