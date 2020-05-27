@@ -1,7 +1,9 @@
 **個人制作アプリ NomadCafe**
 ----------
-<img src="![トップ画面ブラウザ](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)" width="500px">
-![IMG_0135-min](https://user-images.githubusercontent.com/60636597/82974822-d108e580-a015-11ea-9a2e-3fab9ec12638.PNG)
+
+|表紙|中面1|
+|---|---|
+|![トップ画面ブラウザ](https://user-images.githubusercontent.com/60636597/82975056-64dab180-a016-11ea-843e-3706b12369cf.jpg)|![](
 **開発に対する想い**
 ----------
 **ビフォアコロナのアイデアです<br>**
