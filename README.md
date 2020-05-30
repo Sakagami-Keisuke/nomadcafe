@@ -1,3 +1,4 @@
+<span style="font-size: 200%>
 **個人制作アプリ NomadCafe**
 ----------
 
@@ -127,3 +128,4 @@ rspec-rails/factory_bot_rails<br><br>
 ----------
 坂上計介 サカガミケイスケ
 &emsp;&emsp;Gmail / iwayasunset@gmail.com &emsp;&emsp;twitter / https://twitter.com/slope_top_kei
+</span>
