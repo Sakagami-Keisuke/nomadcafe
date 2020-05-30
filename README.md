@@ -100,11 +100,8 @@ https://qiita.com/SakagamiKeisuke
 ○ Docker（コンテナサービス）活用<br>
 ○ CI/CD CircleCI活用(作業中)<br>
 
-**言語・使用技術**
+言語・使用技術
 ----------
-<style>
-.markdown-body { font-size: 8px; }
-</style>
 ●フロント<br>
 &emsp;&emsp;Haml/scss/JavaScript<br>
 ●バックエンド<br>
