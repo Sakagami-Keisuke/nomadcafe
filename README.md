@@ -10,7 +10,6 @@
 
 **アイデア**
 ----------
-**ビフォアコロナのアイデアです<br>**
 **■FreeWifi+Free電源のカフェは生活必需のインフラである<br>**
 &emsp;&emsp;私は福岡市に引越しした時、真っ先に探したのがスーパーマーケットとFreeWifi＋Free電源のあるカフェでした<br>
 **■正確、最新、集約的なFreeWifi+Free電源のカフェの情報は、ググってもありませんでした<br>**
@@ -100,29 +99,12 @@ https://qiita.com/SakagamiKeisuke
 ○ インフラにAWS/EC2サービス活用(一時VPC,ECR使用,ECSは中止）<br>
 ○ Docker（コンテナサービス）活用<br>
 ○ CI/CD CircleCI活用(作業中)<br>
-フロント<br>
-&emsp;&emsp;Haml/scss/JavaScript<br>
-バックエンド<br>
-&emsp;&emsp;ruby 2.5.1 <br>
-&emsp;&emsp;Ruby on Rails 5.2.4.2<br>
-データベース<br>
-&emsp;&emsp;MySQL5.6  
-テスト<br>
-&emsp;&emsp;RSpec, factory_bot<br> 
-インフラ<br>
-&emsp;&emsp;AWS EC2 Linux2 t3small,Route 53 <br>
-本番環境<br>
-&emsp;&emsp;Nginx手動デプロイ<br>
-&emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
-&emsp;&emsp;CircleCI（作業中） <br>
-Gem<br>
-haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
-devise/devise-i18n/devise-i18n-views<br>
-carrierwave/mini_magick/jquery-rails<br>
-unicorn/mini_racer/dotenv-rails<br>
-rspec-rails/factory_bot_rails<br><br>
+
 **言語・使用技術**
 ----------
+<style>
+.markdown-body { font-size: 8px; }
+</style>
 ●フロント<br>
 &emsp;&emsp;Haml/scss/JavaScript<br>
 ●バックエンド<br>
@@ -144,7 +126,7 @@ devise/devise-i18n/devise-i18n-views<br>
 carrierwave/mini_magick/jquery-rails<br>
 unicorn/mini_racer/dotenv-rails<br>
 rspec-rails/factory_bot_rails<br><br>
-**連絡先**
+連絡先
 ----------
-**坂上計介 サカガミケイスケ
-&emsp;&emsp;Gmail / iwayasunset@gmail.com** &emsp;&emsp;twitter / https://twitter.com/slope_top_kei
+坂上計介 サカガミケイスケ
+&emsp;&emsp;Gmail / iwayasunset@gmail.com &emsp;&emsp;twitter / https://twitter.com/slope_top_kei
