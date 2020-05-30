@@ -119,7 +119,6 @@ https://qiita.com/SakagamiKeisuke
 &emsp;&emsp;webサーバー/Nginx 手動デプロイ<br>
 &emsp;&emsp;CircleCI（学習中）<br>
 使用Gem<br>
-&emsp;&emsp;
 haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
 devise/devise-i18n/devise-i18n-views<br>
 carrierwave/mini_magick/jquery-rails<br>
@@ -127,16 +126,6 @@ unicorn/mini_racer/dotenv-rails<br>
 rspec-rails/factory_bot_rails<br><br>
 
 
-●本番環境<br>
-&emsp;&emsp;Nginx手動デプロイ<br>
-&emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
-&emsp;&emsp;CircleCI（作業中） <br>
-●Gem<br>
-haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
-devise/devise-i18n/devise-i18n-views<br>
-carrierwave/mini_magick/jquery-rails<br>
-unicorn/mini_racer/dotenv-rails<br>
-rspec-rails/factory_bot_rails<br><br>
 連絡先
 ----------
 坂上計介 サカガミケイスケ
