@@ -101,8 +101,7 @@ https://qiita.com/SakagamiKeisuke
 ○ Docker（コンテナサービス）活用<br>
 ○ CI/CD CircleCI活用(作業中)<br>
 
-言語・使用技術
-----------
+
 ●フロント<br>
 &emsp;&emsp;Haml/scss/JavaScript<br>
 ●バックエンド<br>
