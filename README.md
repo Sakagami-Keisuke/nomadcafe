@@ -8,7 +8,7 @@
 |![](https://user-images.githubusercontent.com/60636597/82976519-42e32e00-a01a-11ea-99a4-16082d065a38.PNG)|![](https://user-images.githubusercontent.com/60636597/82976951-6bb7f300-a01b-11ea-95ed-8dea15efef2f.PNG)|![](https://user-images.githubusercontent.com/60636597/82977033-9d30be80-a01b-11ea-8683-0223d23f1531.PNG)|  
 
 
-**開発に対する想い**
+**アイデア**
 ----------
 **ビフォアコロナのアイデアです<br>**
 **■FreeWifi+Free電源のカフェは生活必需のインフラである<br>**
@@ -100,7 +100,27 @@ https://qiita.com/SakagamiKeisuke
 ○ インフラにAWS/EC2サービス活用(一時VPC,ECR使用,ECSは中止）<br>
 ○ Docker（コンテナサービス）活用<br>
 ○ CI/CD CircleCI活用(作業中)<br>
-
+フロント<br>
+&emsp;&emsp;Haml/scss/JavaScript<br>
+バックエンド<br>
+&emsp;&emsp;ruby 2.5.1 <br>
+&emsp;&emsp;Ruby on Rails 5.2.4.2<br>
+データベース<br>
+&emsp;&emsp;MySQL5.6  
+テスト<br>
+&emsp;&emsp;RSpec, factory_bot<br> 
+インフラ<br>
+&emsp;&emsp;AWS EC2 Linux2 t3small,Route 53 <br>
+本番環境<br>
+&emsp;&emsp;Nginx手動デプロイ<br>
+&emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
+&emsp;&emsp;CircleCI（作業中） <br>
+Gem<br>
+haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
+devise/devise-i18n/devise-i18n-views<br>
+carrierwave/mini_magick/jquery-rails<br>
+unicorn/mini_racer/dotenv-rails<br>
+rspec-rails/factory_bot_rails<br><br>
 **言語・使用技術**
 ----------
 ●フロント<br>
