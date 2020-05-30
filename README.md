@@ -103,22 +103,22 @@ https://qiita.com/SakagamiKeisuke
 
 **言語・使用技術**
 ----------
-**●フロント<br>**
+●フロント<br>
 &emsp;&emsp;Haml/scss/JavaScript<br>
-**●バックエンド<br>**
+●バックエンド<br>
 &emsp;&emsp;ruby 2.5.1 <br>
 &emsp;&emsp;Ruby on Rails 5.2.4.2<br>
-**●データベース**<br>
+●データベース<br>
 &emsp;&emsp;MySQL5.6  
-**●テスト<br>**
+●テスト<br>
 &emsp;&emsp;RSpec, factory_bot<br> 
-**●インフラ<br>**
+●インフラ<br>
 &emsp;&emsp;AWS EC2 Linux2 t3small,Route 53 <br>
-**●本番環境<br>**
+●本番環境<br>
 &emsp;&emsp;Nginx手動デプロイ<br>
 &emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
 &emsp;&emsp;CircleCI（作業中） <br>
-**●Gem<br>**
+●Gem<br>
 haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
 devise/devise-i18n/devise-i18n-views<br>
 carrierwave/mini_magick/jquery-rails<br>
