@@ -101,18 +101,32 @@ https://qiita.com/SakagamiKeisuke
 ○ Docker（コンテナサービス）活用<br>
 ○ CI/CD CircleCI活用(作業中)<br>
 
+**使用言語技術**
+--------------
+言語・フレームワーク<br>
+&emsp;&emsp;Ruby2.5.1/Rails2.5.1<br>
+フロント<br>
+&emsp;&emsp;THML/CSS Haml/SCSS/Javascript/API<br>
+データベース<br>
+&emsp;&emsp;MySQL5.6<br>
+テスト<br>
+&emsp;&emsp;RSpec/factory_bot<br>
+インフラ<br>
+&emsp;&emsp;AWS EC2 Linux2AMI t3small<br>
+ドメイン・DNS<br>
+&emsp;&emsp;お名前ドットコム/AWS Route53<br>
+本番環境<br>
+&emsp;&emsp;webサーバー/Nginx 手動デプロイ<br>
+&emsp;&emsp;CircleCI（学習中）<br>
+使用Gem<br>
+&emsp;&emsp;
+haml-rails/font-awesome-sass/pry-rails/seed-fu<br>
+devise/devise-i18n/devise-i18n-views<br>
+carrierwave/mini_magick/jquery-rails<br>
+unicorn/mini_racer/dotenv-rails<br>
+rspec-rails/factory_bot_rails<br><br>
 
-●フロント<br>
-&emsp;&emsp;Haml/scss/JavaScript<br>
-●バックエンド<br>
-&emsp;&emsp;ruby 2.5.1 <br>
-&emsp;&emsp;Ruby on Rails 5.2.4.2<br>
-●データベース<br>
-&emsp;&emsp;MySQL5.6  
-●テスト<br>
-&emsp;&emsp;RSpec, factory_bot<br> 
-●インフラ<br>
-&emsp;&emsp;AWS EC2 Linux2 t3small,Route 53 <br>
+
 ●本番環境<br>
 &emsp;&emsp;Nginx手動デプロイ<br>
 &emsp;&emsp;独自ドメイン、SSL/HTTPS<br>
